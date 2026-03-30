@@ -2,7 +2,7 @@
 
 > A deep learning pipeline for binary skin lesion classification (acne vs. normal) using CNNs trained from scratch and via transfer learning, with Grad-CAM interpretability.
 
-**BME6938: Medical AI · Project 2 · Group 6 · University of Florida · Spring 2025**
+**BME6938: Medical AI · Project 2 · Group 6 · University of Florida · Spring 2026**
 
 ---
 
