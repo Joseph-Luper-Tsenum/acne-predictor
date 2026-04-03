@@ -124,6 +124,16 @@ After running the notebook, the following are generated:
 | **Maria C. Horey** | Data exploration, augmentation strategy, literature review, evaluation analysis |
 | **Benjamin D. Tondre** | Transfer learning setup, hyperparameter tuning, training dynamics analysis, report writing |
 
+## Collaboration 
+
+Throughout the project, the team maintained a highly collaborative workflow, meeting regularly to discuss progress, make decisions, and coordinate tasks. As a group, the team collectively shaped the direction of the project and worked together across all stages, including data preprocessing, model development, evaluation, report preparation, and application development. 
+
+Meetings were held where team members jointly reviewed analyses, implemented modeling approaches, and refined the outputs for each phase. The final notebooks and project artifacts were compiled collaboratively to ensure consistency and reproducibility across the entire pipeline. 
+
+Joseph was responsible for ensuring that the various components of the project—including data preprocessing, modeling outputs, explainability analyses, and any interactive deliverables remained aligned and coherent across phases. At the same time, the collaborative contributions of the entire team made it possible to efficiently develop supporting documentation and presentation materials, as different sections produced by team members were integrated into a unified narrative. 
+
+This project reflects the type of collaborative environment commonly encountered in real-world industry and research settings, where interdisciplinary teams contribute complementary expertise. Team members were able to work together productively, resolve challenges constructively, and learn from one another's technical strengths and soft skills, resulting in a cohesive and well-executed final product. 
+
 ## References
 
 1. He, K., et al. (2016). Deep Residual Learning. CVPR.
