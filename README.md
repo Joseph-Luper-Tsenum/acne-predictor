@@ -138,6 +138,24 @@ Joseph was responsible for ensuring that the various components of the projectâ€
 
 This project reflects the type of collaborative environment commonly encountered in real-world industry and research settings, where interdisciplinary teams contribute complementary expertise. Team members were able to work together productively, resolve challenges constructively, and learn from one another's technical strengths and soft skills, resulting in a cohesive and well-executed final product. 
 
+## Citation
+
+If you use this work, please cite:
+
+```bibtex
+@misc{tsenum2025ckdinsight,
+  title={CKD-Insight: Explainable Machine Learning for Chronic Kidney Disease Prediction},
+  author={Tsenum, Joseph Luper, Bendure, Riley and Vutukuru, Gopal Viraj Koundinya},
+  year={2026},
+  institution={University of Florida},
+  note={BME6938 Medical AI, Project 1}
+}
+```
+
+## Declaration of AI Use
+
+We acknowledge the use of Claude Opus 4.6 AI and ChatGPT 5.3 tools to support our understanding and assist with coding, particularly in implementing the project in Python.
+
 ## References
 
 1. He, K., et al. (2016). Deep Residual Learning. CVPR.
