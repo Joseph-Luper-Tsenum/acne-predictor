@@ -162,10 +162,39 @@ We acknowledge the use of Claude Opus 4.6 AI, and ChatGPT 5.3 tools (including C
 
 ## References
 
-1. He, K., et al. (2016). Deep Residual Learning. CVPR.
-2. Huang, G., et al. (2017). Densely Connected CNNs. CVPR.
-3. Tan, M., & Le, Q. (2019). EfficientNet. ICML.
-4. Selvaraju, R., et al. (2017). Grad-CAM. ICCV.
+- A. L. Zaenglein et al., “Guidelines of care for acne vulgaris,” J. Am. Acad. Dermatol., vol. 74, no. 5, 2016.
+  
+- A. K. Gupta et al., “Teledermatology in the era of COVID-19,” J. Cutan. Med. Surg., vol. 24, no. 5, 2020.
+  
+- X. Shen et al., “Automatic acne severity grading with multi-task learning,” Skin Res. Technol., vol. 28, no. 2, 2022.
+  
+- A. Esteva et al., “Dermatologist-level classification of skin cancer with deep neural networks,” Nature, vol. 542, 2017.
+   
+- V. Gulshan et al., “Development and validation of a DL algorithm for diabetic retinopathy,” JAMA, vol. 316, 2016.
+  
+- J. Yosinski et al., “How transferable are features in deep neural networks?” NeurIPS, 2014.
+  
+- K. He et al., “Deep residual learning for image recognition,” CVPR, 2016.
+  
+- G. Huang et al., “Densely connected convolutional networks,” CVPR, 2017.
+   
+- M. Tan and Q. Le, “EfficientNet: Rethinking model scaling,” ICML, 2019.
+  
+- R. R. Selvaraju et al., “Grad-CAM: Visual explanations from deep networks,” ICCV, 2017.
+  
+- P. Tschandl et al., “Human–computer collaboration for skin cancer recognition,” Nature Medicine, vol. 26, 2020.
+  
+- M. Dash et al., “Deep learning for psoriasis severity assessment,” Comput. Med. Imaging Graph., vol. 89, 2021.
+   
+- G. H. Wu et al., “Joint acne image grading and counting via label distribution learning,” ICCV, 2019.
+  
+- J. Yang et al., “MedMNIST v2: A large-scale lightweight benchmark for 2D and 3D biomedical image classification,” Sci. Data, vol. 10, 2023.
+
+- F. Pedregosa et al., “Scikit-learn: ML in Python,” JMLR, vol. 12, 2011.
+  
+- A. Paszke et al., “PyTorch: An imperative style, high-performance deep learning library,” NeurIPS, 2019.
+  
+- J. Deng et al., “ImageNet: A large-scale hierarchical image database,” CVPR, 2009. 
 
 ---
 
