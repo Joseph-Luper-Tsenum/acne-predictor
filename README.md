@@ -144,17 +144,17 @@ If you use this work, please cite:
 
 ```bibtex
 @misc{tsenum2025ckdinsight,
-  title={CKD-Insight: Explainable Machine Learning for Chronic Kidney Disease Prediction},
-  author={Tsenum, Joseph Luper, Bendure, Riley and Vutukuru, Gopal Viraj Koundinya},
+  title={SkinCNN: CNN-Based Acne Detection from Dermatological Images Using Transfer Learning and Grad-CAM Interpretability},
+  author={Tsenum, Joseph Luper, Horey, Maria C. and Tondre, Benjamin D},
   year={2026},
   institution={University of Florida},
-  note={BME6938 Medical AI, Project 1}
+  note={BME6938 Medical AI, Project 2}
 }
 ```
 
 ## Declaration of AI Use
 
-We acknowledge the use of Claude Opus 4.6 AI and ChatGPT 5.3 tools to support our understanding and assist with coding, particularly in implementing the project in Python.
+We acknowledge the use of Claude Opus 4.6 AI, ChatGPT 5.3 tools (including Copilot) to support our understanding and assist with coding, particularly in implementing the project in Python.
 
 ## References
 
