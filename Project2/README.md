@@ -116,6 +116,10 @@ After running the notebook, the following are generated:
 | DenseNet-121 | Transfer learning | 7.0M | 32 (early stop) | 100% |
 | EfficientNet-B0 | Transfer learning | 4.0M | 38 (early stop) | 100% |
 
+## Authors
+
+**Joseph Luper Tsenum:** Ph.D. Researcher in Biomedical Engineering (Modeling & Biomedical Data Science Specialization), University of Florida. Joseph develops Generative AI platforms for designing novel oligonucleotides and applies machine learning methods to biomedical data analysis and drug discovery.
+
 ## Team Contributions
 
 | Member | Contributions |
