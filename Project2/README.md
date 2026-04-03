@@ -138,6 +138,24 @@ Joseph was responsible for ensuring that the various components of the projectâ€
 
 This project reflects the type of collaborative environment commonly encountered in real-world industry and research settings, where interdisciplinary teams contribute complementary expertise. Team members were able to work together productively, resolve challenges constructively, and learn from one another's technical strengths and soft skills, resulting in a cohesive and well-executed final product. 
 
+## Citation
+
+If you use this work, please cite:
+
+```bibtex
+@misc{tsenum2026acnepredictor,
+  title={SkinCNN: CNN-Based Acne Detection from Dermatological Images Using Transfer Learning and Grad-CAM Interpretability},
+  author={Tsenum, Joseph Luper, Horey, Maria C. and Tondre, Benjamin D},
+  year={2026},
+  institution={University of Florida},
+  note={BME6938 Medical AI, Project 2}
+}
+```
+
+## Declaration of AI Use
+
+We acknowledge the use of Claude Opus 4.6 AI, ChatGPT 5.3 tools (including Copilot) to support our understanding and assist with coding, particularly in implementing the project in Python.
+
 ## References
 
 1. He, K., et al. (2016). Deep Residual Learning. CVPR.
