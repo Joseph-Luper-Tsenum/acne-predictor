@@ -120,14 +120,14 @@ After running the notebook, the following are generated:
 
 **Joseph Luper Tsenum:** Ph.D. Researcher in Biomedical Engineering (Modeling & Biomedical Data Science Specialization), University of Florida. Joseph develops Generative AI platforms for designing novel oligonucleotides and applies machine learning methods to biomedical data analysis and drug discovery.
 
-**M. Carolina M. Horey:** Fourth-year undergraduate in Biomedical Engineering at the University of Florida. Carolina is in the 4+1 program to earn her Master's in Biomedical Engineering in the coming year. She currently works for Axogen under the Quality System team, where she focuses on supplier management and internal document reviews.
+**M. Carolina Horey:** Fourth-year undergraduate in Biomedical Engineering at the University of Florida. Carolina is in the 4+1 program to earn her Master's in Biomedical Engineering in the coming year. She currently works for Axogen under the Quality System team, where she focuses on supplier management and internal document reviews.
 
 ## Team Contributions
 
 | Member | Contributions |
 |--------|--------------|
 | **Joseph L. Tsenum** | Pipeline architecture, model training, transfer learning, Grad-CAM implementation, report writing, GitHub management |
-| **Carolina M. Horey** | Data exploration, augmentation strategy, literature review, evaluation analysis |
+| **M. Carolina Horey** | Data exploration, augmentation strategy, literature review, evaluation analysis |
 | **Benjamin D. Tondre** | Transfer learning setup, hyperparameter tuning, training dynamics analysis, report writing |
 
 ## Collaboration 
