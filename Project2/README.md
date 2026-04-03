@@ -154,7 +154,7 @@ If you use this work, please cite:
 
 ## Declaration of AI Use
 
-We acknowledge the use of Claude Opus 4.6 AI, ChatGPT 5.3 tools (including Copilot) to support our understanding and assist with coding, particularly in implementing the project in Python.
+We acknowledge the use of Claude Opus 4.6 AI, and ChatGPT 5.3 tools (including Copilot) to support our understanding and assist with coding, particularly in implementing the project in Python.
 
 ## References
 
