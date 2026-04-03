@@ -143,7 +143,7 @@ This project reflects the type of collaborative environment commonly encountered
 If you use this work, please cite:
 
 ```bibtex
-@misc{tsenum2025ckdinsight,
+@misc{tsenum2026acnepredictor,
   title={SkinCNN: CNN-Based Acne Detection from Dermatological Images Using Transfer Learning and Grad-CAM Interpretability},
   author={Tsenum, Joseph Luper, Horey, Maria C. and Tondre, Benjamin D},
   year={2026},
