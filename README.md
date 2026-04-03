@@ -124,7 +124,7 @@ After running the notebook, the following are generated:
 
 | Member | Contributions |
 |--------|--------------|
-| **Joseph Luper Tsenum** | Pipeline architecture, model training, transfer learning, Grad-CAM implementation, report writing, GitHub management |
+| **Joseph L. Tsenum** | Pipeline architecture, model training, transfer learning, Grad-CAM implementation, report writing, GitHub management |
 | **Maria C. Horey** | Data exploration, augmentation strategy, literature review, evaluation analysis |
 | **Benjamin D. Tondre** | Transfer learning setup, hyperparameter tuning, training dynamics analysis, report writing |
 
