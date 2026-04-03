@@ -122,6 +122,8 @@ After running the notebook, the following are generated:
 
 **Carolina M. Horey:** Fourth-year undergraduate in Biomedical Engineering at the University of Florida. Carolina is in the 4+1 program to earn her Master's in Biomedical Engineering in the coming year. She currently works for Axogen under the Quality System team, where she focuses on supplier management and internal document reviews.
 
+**Benjamin Tondre:** First-year M.S. student in Biomedical Engineering at the University of Florida and a researcher in the Brain Mapping Lab. His work focuses on deep brain stimulation (DBS) in patients with Essential Tremor, with broader interests in neural engineering, machine learning, and neurotechnology.
+
 ## Team Contributions
 
 | Member | Contributions |
